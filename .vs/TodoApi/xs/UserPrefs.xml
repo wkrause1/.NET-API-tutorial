@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{BCD2BEBA-4FE6-48E2-AF52-F44D41B17ED9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Program.cs">
+    <Files>
+      <File FileName="TodoApi/Program.cs" Line="16" Column="11" />
+      <File FileName="TodoApi/Models/TodoItem.cs" Line="9" Column="2" />
+      <File FileName="TodoApi/Models/TodoContext.cs" Line="14" Column="2" />
+      <File FileName="TodoApi/Startup.cs" Line="34" Column="9" />
+      <File FileName="TodoApi/Controllers/TodoController.cs" Line="47" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApi" expanded="True">
+            <Node name="TodoApi" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="l" Name="l">
+      <Items>
+        <StartupItem ItemId="{BCD2BEBA-4FE6-48E2-AF52-F44D41B17ED9}" ItemName="TodoApi" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
